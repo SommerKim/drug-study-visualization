@@ -1,4 +1,5 @@
-# matplotlib-challenge
+# Drug Study Visualization
+### Utilizing Pandas, Matplotlib
 
 This Jupyter file contains dataframes and graphs that illustrate the results from a study of cancer drugs. The drugs were used on mice with tumors, and the resulting successes or failures were documented. 
 
